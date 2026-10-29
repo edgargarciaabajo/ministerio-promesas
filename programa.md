@@ -22,3 +22,4 @@ Presidente: Don Commit Permanente
 ## Lema
 
 
+10. Impuesto de 100 euros por utilizar el teclado.

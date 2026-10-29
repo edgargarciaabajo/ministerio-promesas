@@ -21,4 +21,4 @@ Presidente: Don Commit Permanente
 
 ## Lema
 
-"Prometemos hasta que se llene el disco duro".
+

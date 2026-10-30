@@ -30,3 +30,4 @@ Proyecto educativo individual.
 
 El ministro anuncia que se estudiará
 la posibilidad de cumplir alguna promesa.
+## El Ministerio sobrevive al cambio de ordenador
